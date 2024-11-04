@@ -8,7 +8,10 @@
 
 - 🔭 I’m currently working on 
 - 🌱 I’m currently learning Data Structures, Python and Frontend.
- - ⚡ Fun fact: I wanna learn to speak fluently in Japanese.
+- ⚡ Fun fact: I wanna learn to speak fluently in Japanese.
+
+##
+
 
 
 
