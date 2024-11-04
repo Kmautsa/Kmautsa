@@ -10,8 +10,7 @@
 - 🌱 I’m currently learning Data Structures, Python and Frontend.
 - ⚡ Fun fact: I wanna learn to speak fluently in Japanese.
 
-##
-
+###
 
 
 
