@@ -4,7 +4,7 @@
 
 - 💬 Ask me about ...
 - 📫 How to reach me: -->
-## Hi there 👋
+##Welcome to mty projects and practice Databse 
 
 - 🔭 I’m currently working on an Advocasy Webpage focusing on space travel.
 - 🌱 I’m currently learning Data Structures, Python and Frontend Web Development.
