@@ -3,7 +3,7 @@
 - 🤔 I’m looking for help with ..
 
 - 💬 Ask me about 
-- 📫 How to reach me: -->,
+- 📫 How to reach me: -->
 ## Welcome to my projects and practice Databse 
 
 - 🔭 I’m currently working on an Advocasy Webpage focusing on space travel.
