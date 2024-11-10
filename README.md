@@ -4,7 +4,6 @@ Task manager
 recipe sharing platform
 https://www.simplilearn.com/tutorials/python-tutorial/python-automation-projects
 https://www.datacamp.com/blog/60-python-projects-for-all-levels-expertise
-
 - 💬 Ask me about 
 - 📫 How to reach me: -->
 ## Welcome to my projects and practice Databse 
