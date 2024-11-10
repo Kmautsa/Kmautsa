@@ -2,6 +2,7 @@
 -i need to create two web apps
 Task manager 
 recipe sharing platform
+https://www.simplilearn.com/tutorials/python-tutorial/python-automation-projects
 
 - 💬 Ask me about 
 - 📫 How to reach me: -->
