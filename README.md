@@ -1,4 +1,8 @@
 <!--
+-i need to create two web apps
+Task manager 
+recipe sharing platform
+
 - 💬 Ask me about 
 - 📫 How to reach me: -->
 ## Welcome to my projects and practice Databse 
