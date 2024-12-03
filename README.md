@@ -14,7 +14,7 @@ https://www.datacamp.com/blog/60-python-projects-for-all-levels-expertise
 - 🌱 I’m currently learning Data Structures, Python and Frontend Web Development.  
 - ⚡ Fun fact: I wanna learn to speak fluently in Japanese. 
 
-##
+## 
 <a href="https://app.daily.dev/dellico"><img src="https://api.daily.dev/devcards/v2/YiXpNIRxKQQMlS74WoqSG.png?type=default&r=yle" width="356" alt="Dellico's Dev Card"/></a>
  
 ##
