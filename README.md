@@ -7,7 +7,7 @@ https://www.simplilearn.com/tutorials/python-tutorial/python-automation-projects
 https://www.datacamp.com/blog/60-python-projects-for-all-levels-expertise    
   
 - 💬 Ask me about          
-## Welcome to my projects and practice Databse   
+## Welcome to my projects and practice Databse    
   
 - 🔭 I’m currently working on an Advocasy Webpage focusing on space travel.   
 - 🌱 I’m currently learning Data Structures, Python and Frontend Web Development.    
